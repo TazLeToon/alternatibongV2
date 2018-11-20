@@ -1,0 +1,25 @@
+Pour s'adapter au thème Hueman, il y a 3 menus 
+Le premier menu n'a qu'une entrée pour afficher le lien vers la boutique à droite du bandeau d'accueil
+Le second s'affiche dans la barre de menu
+Le troisième s'affiche dans le pied de page
+
+il subiste un "menuimages" qui vient de la V1. Pourra etre supprimé
+
+Menu 1 : "Ma boutique"
+ lien personnalisé vers ma boutique spreadin
+ 
+Menu 2 : "Version 2"
+ catégorie : Alimentation
+ catégorie : consommation
+ catégorie : habitat
+ catégorie : soi et les autres
+ catégorie : voyages
+ catégorie : commencer ici 
+ 
+Menu 3 : "Bas de Page"
+ Catégorie : Presse
+ Page : Travailler avec moi (travailler avec moi)
+ Lien personnalisé : Ma Boutique
+ Page : Contact (nous contacter)
+ Page : A Propos (a propos)
+ 
