@@ -1,25 +1,33 @@
 Pour s'adapter au thème Hueman, il y a 3 menus 
-Le premier menu n'a qu'une entrée pour afficher le lien vers la boutique à droite du bandeau d'accueil
-Le second s'affiche dans la barre de menu
-Le troisième s'affiche dans le pied de page
+Il y a 3 "menus" permettant d'accéder au contenu du site
+1) Le premier menu n'a qu'une entrée pour afficher le lien vers la boutique à droite du bandeau d'accueil
+2) Le second s'affiche dans la barre de menu sous le bandeau
+3) Le troisième s'affiche dans le pied de page
 
-il subiste un "menuimages" qui vient de la V1. Pourra etre supprimé
+Si j'ai indiqué :
+- lien personnalisé, c'est qu'un clic sur ce choix bascule vers un site externe
+- page : affiche une "page" wordpress
+- catégorie : affiche les N articles les plus récents de la catégorie (N est réglé à 5 Actuellement)
+
 
 Menu 1 : "Ma boutique"
- lien personnalisé vers ma boutique spreadin
+
+ lien personnalisé :  ma boutique spreadin
  
 Menu 2 : "Version 2"
- catégorie : Alimentation
- catégorie : consommation
- catégorie : habitat
- catégorie : soi et les autres
- catégorie : voyages
- catégorie : commencer ici 
+
+ 1) catégorie : Alimentation
+ 2) catégorie : consommation
+ 3) catégorie : habitat
+ 4) catégorie : soi et les autres
+ 5) catégorie : voyages
+ 6) catégorie : commencer ici
  
 Menu 3 : "Bas de Page"
- Catégorie : Presse
- Page : Travailler avec moi (travailler avec moi)
- Lien personnalisé : Ma Boutique
- Page : Contact (nous contacter)
- Page : A Propos (a propos)
+
+ 1) Catégorie : Presse
+ 2) Page : Travailler avec moi (travailler avec moi) - Page à rédiger !!
+ 3) Lien personnalisé : Ma Boutique
+ 4) Page : Contact (nous contacter)
+ 5) Page : A Propos (a propos) - Page à rédiger !!
  
