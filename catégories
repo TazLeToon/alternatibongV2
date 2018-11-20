@@ -1,5 +1,16 @@
-Les catégories sont organisées comme suit : 
-(entre parenthèses le nombre d'articles au 20 nov 2018)
+Les catégories sont organisées comme suit :
+(entre parenthèses le nombre d'articles au 20 nov 2018). Attention il est possible d'avoir 0 articles dans une catégorie, mais les articles des sous-catégories s'affichent quand on appelle la catégorie, par ordre chronologique (donc en mélangeant les catégories, tu peux faire le test sur la catégorie "Soi et les autres" qui est la plus composite actuellement).
+
+En BLEU les catégories qui sont liées à un appel par le menu de haut de page sous le bandeau. Je te laisse vérifier que les regroupements correspondent à ce que tu souhaitais.
+
+en VERT les catégories qui sont liées au menu du bas de page.
+
+en ROUGE les catégories qui ne s'affichent pas . Pour ces articles plusieurs choix possibles :
+- je décale la catégorie dans une catégorie parente qui est appelée par un menu existant
+- on modifie l'attibution de l'article à la catégorie en éditant l'article (tu peux le faire en mode éditeur, utilise la fonction modification rapide, c'est plus simple)
+- on ajoute dans un menu (haut ou bas) une nouvelle entrée correspondant à la catégorie oubliée
+- on oublie définitivement l'article (voire on le supprime)
+
 
 Actualité (4)
 
@@ -12,13 +23,13 @@ Commencer ici (0)
 
 Consommation (0)
  |- Economie (0)
-    |- - Banques (1)
-    |- Consommation (1)
-    |- Technologie (1)
-    |- Vetements (0)
+    |-- Banques (1)
+    |-- Consommation (1)
+    |-- Technologie (1)
+    |-- Vetements (0)
  |- Medias (1)
  
-Développement site (2)
+Développement site (2) -->> cette catégorie me permet de garder en mémoire des infos sur le site. Catégorie privée non publiée.
 
 Habitat (0)
  |- Eau (0)
@@ -27,9 +38,9 @@ Habitat (0)
  |- Logement (0)
  |- Recyclage (4)
  
-Info Hebdo (12)
+Info Hebdo (12) -->> destiné à Mailchimp
 
-Info Mensuel (6)
+Info Mensuel (6) -->> destiné à Mailchimp (fane de radis)
 
 Nous soutenir (4)
  |- Remerciements (0)
@@ -61,8 +72,8 @@ S'organiser (1)
   |- Santé (1)
   |- Travail entreprise (3)
   |- Vie Citoyenne (2)
-  
- Test (0)
+ 
+ Test (0) -->> catégorie utilisée pour des tests de développement. Non destinée à être publiée.
  
  Voyages (2)
  
